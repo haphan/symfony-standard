@@ -1,0 +1,4 @@
+haphan_localhop:
+    resource: "@HaphanLocalhopBundle/Resources/config/routing.yml"
+    prefix:   /
+

@@ -1,0 +1,3 @@
+haphan_localhop_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: HaphanLocalhopBundle:Default:index }
